@@ -1,0 +1,22 @@
+﻿@using Microsoft.Extensions.Options
+@using DexCore
+@model DexCore.Models.Department
+@inject IOptions<DexCoreOptions> options
+    <tr>
+        @if (Model.EmployeeCount > options.Value.BoldDepartmentEmployeeCountThreshold)
+        {
+            <td><strong>@Model.Name</strong></td>
+        }
+        else
+        {
+            <td>@Model.Name</td>
+        }
+        <td>@Model.Location</td>
+        <td>@Model.EmployeeCount</td>
+
+        <td>
+            <a asp-controller="Employee" asp-action="Index" asp-route-departmentId="@Model.Id">
+                Employee
+            </a>
+        </td>
+    </tr>

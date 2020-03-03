@@ -1,0 +1,58 @@
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.exe
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.deps.json
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.runtimeconfig.json
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.runtimeconfig.dev.json
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.dll
+F:\Git\Asp.net Core Practics\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.pdb
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.csprojAssemblyReference.cache
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\staticwebassets\DexCore.StaticWebAssets.Manifest.cache
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\staticwebassets\DexCore.StaticWebAssets.xml
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.MvcApplicationPartsAssemblyInfo.cache
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.AssemblyInfoInputs.cache
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.AssemblyInfo.cs
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.RazorTargetAssemblyInfo.cache
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.dll
+F:\Git\Asp.net Core Practics\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.pdb
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.exe
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.deps.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.runtimeconfig.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.runtimeconfig.dev.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.dll
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.pdb
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.csprojAssemblyReference.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\staticwebassets\DexCore.StaticWebAssets.Manifest.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\staticwebassets\DexCore.StaticWebAssets.xml
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.AssemblyInfoInputs.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.AssemblyInfo.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.RazorTargetAssemblyInfo.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.dll
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.pdb
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\bundleconfig.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\libman.json
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.MvcApplicationPartsAssemblyInfo.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.Views.dll
+F:\Git\AspNetCorePractice\DexCore\DexCore\bin\Debug\netcoreapp3.0\DexCore.Views.pdb
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.RazorAssemblyInfo.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.RazorAssemblyInfo.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.TagHelpers.input.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.TagHelpers.output.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.RazorCoreGenerate.cache
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.RazorTargetAssemblyInfo.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.Views.pdb
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\DexCore.csproj.CopyComplete
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Department\DisplayTemplates\Department.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Employee\DisplayTemplates\Employee.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Index.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Department\Add.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Add.cshtml.g.cs
+F:\Git\AspNetCorePractice\DexCore\DexCore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\CompanySummary\Default.cshtml.g.cs
